@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.my-home{
+
+}
+.my-header{
+
+}
+.my-footer{
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+footer{
+  height: 8%;
+  width: 100%;
+  background-color: blue;
+  position: fixed;
+  bottom: 0;
+  color: white;
+  display: flex;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 70px 25px 75px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
